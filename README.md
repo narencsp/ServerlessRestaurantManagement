@@ -4,6 +4,10 @@ Zongyu Wu <br />
 Tejaswi Chaudhary <br />
 Vivekkumar Sanepara 
 
+
+# Application Architecture
+![ServerlessRestaurantManagement_Architecture](https://github.com/narencsp/ServerlessRestaurantManagement/blob/master/ServerlessRestaurantManagement_Architecture.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
