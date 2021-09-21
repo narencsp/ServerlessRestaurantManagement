@@ -7,11 +7,7 @@ Vivekkumar Sanepara
 
 # Application Architecture
 ![ServerlessRestaurantManagement_Architecture](https://github.com/narencsp/ServerlessRestaurantManagement/blob/master/ServerlessRestaurantManagement_Architecture.png)
-<p align="center">
 
-    *Figure 1: Application Architecture*
-
-</p>
 # Problem Statement
 A serverless Food Delivery system using multi-cloud deployment model 
 and backend-as-a-service. The Food Delivery System- “Halifax Foodie,” should provide 
